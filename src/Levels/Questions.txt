@@ -1,0 +1,24 @@
+1: What is the equivalent resistance of the circuit?
+7
+2: What is the equivalent capacitance of the circuit?
+1.838
+3: After the capacitors are fully charged, what is the current going through each voltage source?
+0.04
+4: All resistors have max power 2.0 W. What is the maximum EMF of the battery for it not to burn any resistor?
+28.3
+5: What is the equivalent inductance of the circuit?
+1.8333
+6: What is the impedance of this RLC circuit?
+80.29
+7: What is the equivalent resistance of the circuit?
+6.73
+8: What is the potential difference between the current sources?
+1.82
+9: What is the power delivered through the 5 ohm resistor?
+33
+10: What is the minimum resistance for the diode not to break?
+400
+11: After the switches are reversed, what is the charge of the lone capacitor in microcoulombs?
+0.83
+12: What resistance should the base transistor have for the collector current to be 5 A?
+180.8
