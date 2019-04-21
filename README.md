@@ -3,7 +3,7 @@ JavaFX application done in the context  of the final integrative project in the 
 
 This application is an electronic circuits simulator in which wires, ground, resistors, voltage sources, 2 and 3 gates switches, transistors, diodes, inductors and capacitors can be used on a virtual breadboard to simulate their behaviors.
 
-To run the app from your IDE, make sure that Circuit_Circus.jar is added to the project libraries. 
+To run the app from your IDE, select MainScreen.java from the default package as the main class. Also, make sure that Circuit_Circus.jar is added to the project libraries if it is not done automatically. 
 
 There are two main uses for the application: a "challenge" mode where users are presented with circuit analysis problems and a sandbox mode where users can build their own circuits.
 
